@@ -1,2 +1,2 @@
-// You can add your JavaScript code here
-console.log("Welcome to my website!");
+// إضافة الأكواد الجافا سكريبت هنا
+console.log("مرحبًا بكم في موقع أنس الشخصي!");
